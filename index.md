@@ -1,36 +1,12 @@
-## Welcome to GitHub Pages
+## This is the very first website of M1sch13f!
 
-You can use the [editor on GitHub](https://github.com/FU-M1sch13f/io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+M1sch13f is a group of novice security enthusiasts, who share the same interests in CTF, Cryptography, Reverse Engineering, Hacking & Computer forensics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FU-M1sch13f/io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Members
+# Long Viet Nguyen (@nvlong17) - Leader - Major in Web Hacking
+# Tung Duc Nguyen (@tungn12) - Major in RE and pwn
+# Minh Van Vu (@skyghosht2210) - Major in Forensics and Incident Response
+# Thuy Thi Ngoc Tran (@thuy-ttn) - Major in Cryptography and Web Hacking
 
 ### Support or Contact
 
