@@ -1,6 +1,7 @@
 
 ## CryptoHack Hints
 
+
 ### General:
 **1. XOR:**
 - ***Favorite byte***: The flag character by character is xored with a single byte. To find the hidden byte, you can use the flag format of ```crypto{``` .
@@ -14,6 +15,7 @@
 
 **3. Data Format:**
 - ***Transparency***: I want to give hints for this chall because at the time I write this, it has less than 400 solves. A small (I don't know, maybe big) hint is to find the subdomain of `cryptohack.org`
+
 
 ### Mathematics:
 coming soon~~
