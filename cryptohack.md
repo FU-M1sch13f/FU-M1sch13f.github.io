@@ -1,4 +1,6 @@
 
+## CryptoHack Hints
+
 ### General:
 **1. XOR:**
 - ***Favorite byte***: The flag character by character is xored with a single byte. To find the hidden byte, you can use the flag format of ```crypto{``` .
