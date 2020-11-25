@@ -3,6 +3,8 @@
 
 
 ### General:
+This challenge set requires a little knowledge of math and general stuff. Thus, I won't give out the detailed hints for all challenges. 
+
 **1. XOR:**
 - ***Favorite byte***: The flag character by character is xored with a single byte. To find the hidden byte, you can use the flag format of ```crypto{``` .
 - ***You either know, XOR you don't***: It is quite similar to the ***Favorite byte*** challenge as you can find the key with the flag format. It won't give you the complete key, but your brain will tell you all :D.
@@ -18,4 +20,5 @@
 
 
 ### Mathematics:
+Before starting this challenge set, you should get yourself ready with enough Math to avoid being confused like me was.
 coming soon~~
